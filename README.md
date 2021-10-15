@@ -3,7 +3,7 @@
 - This program grabs live volume updates for btc and eth each hour.
 - The data will be plot for 200 hours.
 
-### Download  ➤ [BTC VS ETH Live Volume LR](https://file.io/OnHKm4Xy2O6B)
+### Download EXE  ➤ [BTC VS ETH Live Volume LR](https://github.com/FuryAssassin/Linear-Regression/releases/download/LR/BTC.VS.ETH.Live.Volume.LR.exe)
 
 ##### Program might take time to show results. (Depends upon your internet speed)
 
