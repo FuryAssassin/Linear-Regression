@@ -6,12 +6,12 @@
 ### Download  ➤ [BTC VS ETH Live Volume LR](https://file.io/OnHKm4Xy2O6B)
 
 
-#### Program might take time to show results. (Depends upon your internet speed)
+##### Program might take time to show results. (Depends upon your internet speed)
 
 
 
-#### Credits: Rethvick Sriram.Y (RA1911042020012)
+##### Credits: Rethvick Sriram.Y (RA1911042020012)
 
 
 
-###### Copyrights FuryAssassin
+####### Copyrights: FuryAssassin
